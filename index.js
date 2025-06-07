@@ -1,4 +1,3 @@
-<script>
   (function () {
     console.log("🔄 Analytics script initiated");
 
@@ -57,4 +56,3 @@
     console.log("📦 Analytics Data Ready:", analyticsData);
 
   })();
-</script>
